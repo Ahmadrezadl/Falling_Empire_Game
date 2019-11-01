@@ -1,4 +1,4 @@
-# AUT-c-Project
+# Falling Empire Game:
 a simple text based game.
 for .gm81 file you need Game Maker 8.1.
 
